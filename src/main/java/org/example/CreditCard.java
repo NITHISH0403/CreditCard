@@ -10,7 +10,7 @@ class  CreditCard
         Card o1 = new Card();
         //call object clone().
         //clone o1.
-        Card o2 = o1.cloneCard();
+        Card o2 = o1.clone();
         
         String holdername = "Holder Name :";
         String cardno = "Card No :";
